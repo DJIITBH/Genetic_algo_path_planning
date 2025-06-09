@@ -10,6 +10,7 @@ This project implements a genetic algorithm for optimal path planning. It evolve
 - Supports obstacle checking (optional)
 
 ## Documentation
+Inspired from Mr TolunayMengi
 
 📄 [Project Documentation](https://drive.google.com/file/d/1BaQhQ7hLI1L65_nqeYJjOk3sEFXtaXYN/view?usp=sharing)
 
